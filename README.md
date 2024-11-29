@@ -27,6 +27,12 @@ Untuk melakukan proses virtualisasi ini ada beberapa yang harus kita persiapkan,
     - VMware Hypervisor (Windows/Linux/MacOS)
     - Boxes by GNOME (Linux)
 
+### Pengertian Windows 7 Home dan Fedora 40 Workstation
+
+```
+Windows 7 Home adalah salah satu edisi dari sistem operasi Windows 7 yang dirancang oleh Microsoft. Sistem ini ditujukan untuk pengguna rumahan dengan fitur yang disederhanakan dibandingkan edisi Professional atau Ultimate. Sedangkan Fedora 40 Workstation adalah distribusi Linux Fedora yang dirancang khusus untuk kebutuhan desktop. Ini adalah versi open-source dan modern yang menawarkan fitur-fitur terbaru untuk pengguna pengembang, profesional, maupun umum.
+```
+
 
 
 ## Perbedaan Linux dan Windows
